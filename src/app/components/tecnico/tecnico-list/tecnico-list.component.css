@@ -21,3 +21,12 @@ h1{
     margin-bottom: 2rem;
 
 }
+
+
+.edit{
+    color: green;
+}
+
+.delete{
+   color:  red;
+}
